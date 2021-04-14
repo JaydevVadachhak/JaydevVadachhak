@@ -2,22 +2,17 @@
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
-### My Toolbox
+### My languages
 
 <p>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Java" src="https://img.icons8.com/nolan/48/java-coffee-cup-logo.png" width="26" height="26"/>
+<img align="left" alt="python" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="26" height="26"/>
+<img align="left" alt="Kotlin" width="26" height="26" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Java" src="https://img.icons8.com/nolan/48/java-coffee-cup-logo.png" width="26" height="26"/>
-<img align="left" alt="python" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="26" height="26"/> 
 <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" height="26"/> 
 <img align="left" src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="26" height="26"/>
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Tableau" width="26px" height="26" src="https://img.icons8.com/color/64/4a90e2/tableau-software.png"/>
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Google Analytics" src="https://img.icons8.com/color/48/000000/google-analytics.png" width="26" height="26" />
-<img align="left" alt="Photoshop" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" width="26" height="26" />
 <!-- <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>  -->
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/> -->
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/>  -->
@@ -28,6 +23,20 @@
 <br>
 </p>
 <br>
+
+### My Toolbox
+
+<p>
+ <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+ <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Tableau" width="26px" height="26" src="https://img.icons8.com/color/64/4a90e2/tableau-software.png"/>
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Google Analytics" src="https://img.icons8.com/color/48/000000/google-analytics.png" width="26" height="26" />
+<img align="left" alt="Photoshop" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" width="26" height="26" />
+ <img alt="Android" width="26" height="26" src="https://img.icons8.com/bubbles/50/000000/android-os.png"/>
+ <br>
+</p>
+</br>
 
 - 🔭 Working - SDE
 - 🌱 Learning Everything
