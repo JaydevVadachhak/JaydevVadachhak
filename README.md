@@ -34,6 +34,7 @@
 <img align="left" alt="Google Analytics" src="https://img.icons8.com/color/48/000000/google-analytics.png" width="26" height="26" />
 <img align="left" alt="Photoshop" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" width="26" height="26" />
  <img alt="Android" width="26" height="26" src="https://img.icons8.com/bubbles/50/000000/android-os.png"/>
+ <img alt="Anaconda" width="26" height="26" src="https://img.icons8.com/dusk/64/000000/anaconda.png" />
  <br>
 </p>
 </br>
