@@ -51,11 +51,10 @@
 ➡️ [more blog posts...](https://medium.com/@jaydevvadachhak)
 </td>
 <td valign="top" width="50%">
-- 🔭 Working - SDE
-- 🌱 Learning Everything
-- 👯 Looking to collaborate with other content creators
-- ⚡ Fun fact: I love to read Books
- 
+ <tr>- 🔭 Working - SDE</tr>
+<tr>- 🌱 Learning Everything</tr>
+<tr>- 👯 Looking to collaborate with other content creators</tr>
+<tr>- ⚡ Fun fact: I love to read Books</tr>
 * Passionate for learning & exploring new Tech. I write [Blogs](https://medium.com/@jaydevvadachhak).
 * Join my [Telegram Channel](https://t.me/JAS_NYT).
 </td>
