@@ -35,9 +35,16 @@
 <img align="left" alt="Photoshop" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" width="26" height="26" />
 <img alt="Android" width="26" height="26" src="https://img.icons8.com/color/48/000000/android-os.png"/>
 <!-- <img alt="Anaconda" width="26" height="26" src="https://img.icons8.com/dusk/64/000000/anaconda.png" />  -->
- <br>
+<br>
 </p>
 </br>
+
+- 🔭 Working - SDE
+- 🌱 Learning Everything
+- 👯 Looking to collaborate with other content creators
+- ⚡ Fun fact: I love to read Books
+* Passionate for learning & exploring new Tech. I write [Blogs](https://medium.com/@jaydevvadachhak).
+* Join my [Telegram Channel](https://t.me/JAS_NYT).
 
 <table><tr><td valign="top" width="50%">
 
@@ -49,14 +56,6 @@
 - [Tangible Behaviour](https://medium.com/@jaydevvadachhak/tangible-behaviour-588730689713)
 
 ➡️ [more blog posts...](https://medium.com/@jaydevvadachhak)
-</td>
-<td valign="top" width="50%">
- <tr>- 🔭 Working - SDE</tr>
-<tr>- 🌱 Learning Everything</tr>
-<tr>- 👯 Looking to collaborate with other content creators</tr>
-<tr>- ⚡ Fun fact: I love to read Books</tr>
-* Passionate for learning & exploring new Tech. I write [Blogs](https://medium.com/@jaydevvadachhak).
-* Join my [Telegram Channel](https://t.me/JAS_NYT).
 </td>
 
 <details>
