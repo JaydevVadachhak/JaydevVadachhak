@@ -50,7 +50,7 @@
 
 ➡️ [more blog posts...](https://medium.com/@jaydevvadachhak)
 </td>
-<tr><td valign="top" width="50%">
+<td valign="top" width="50%">
 - 🔭 Working - SDE
 - 🌱 Learning Everything
 - 👯 Looking to collaborate with other content creators
@@ -59,7 +59,6 @@
 * Passionate for learning & exploring new Tech. I write [Blogs](https://medium.com/@jaydevvadachhak).
 * Join my [Telegram Channel](https://t.me/JAS_NYT).
 </td>
----
 
 <details>
 <summary>📊 Github Stats</summary>
