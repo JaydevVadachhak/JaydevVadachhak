@@ -5,7 +5,7 @@
 ### My languages
 
 <p>
-<img align="left" alt="Java" src="https://img.icons8.com/nolan/48/java-coffee-cup-logo.png" width="26" height="26"/>
+<img align="left" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="26" height="26"/>
 <img align="left" alt="python" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="26" height="26"/>
 <img align="left" alt="Kotlin" width="26" height="26" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -33,7 +33,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Google Analytics" src="https://img.icons8.com/color/48/000000/google-analytics.png" width="26" height="26" />
 <img align="left" alt="Photoshop" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" width="26" height="26" />
-<img alt="Android" width="26" height="26" src="https://img.icons8.com/bubbles/50/000000/android-os.png"/>
+<img alt="Android" width="26" height="26" src="https://img.icons8.com/color/48/000000/android-os.png"/>
 <img alt="Anaconda" width="26" height="26" src="https://img.icons8.com/dusk/64/000000/anaconda.png" />
  <br>
 </p>
