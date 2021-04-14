@@ -31,6 +31,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Tableau" width="26px" height="26" src="https://img.icons8.com/color/64/4a90e2/tableau-software.png"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img alt="wordpress" src="https://img.icons8.com/color/96/000000/wordpress.png" width="26" height="26"/>
 <img align="left" alt="Google Analytics" src="https://img.icons8.com/color/48/000000/google-analytics.png" width="26" height="26" />
 <img align="left" alt="Photoshop" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" width="26" height="26" />
 <img alt="Android" width="26" height="26" src="https://img.icons8.com/color/48/000000/android-os.png"/>
