@@ -58,13 +58,15 @@
 
 ➡️ [more blog posts...](https://medium.com/@jaydevvadachhak)
 </td>
+<td>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydevvadachhak&langs_count=8)
+</td>
 
 <details>
 <summary>📊 Github Stats</summary>
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jaydevvadachhak&show_icons=true&theme=gotham" alt="Jaydev Vadachhak | Stats" />
 </details>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydevvadachhak&langs_count=8)
 
 [twitter]: https://twitter.com/Jaydevvadachhak
 [gmail]: https://gmail.com
