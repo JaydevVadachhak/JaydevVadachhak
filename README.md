@@ -64,6 +64,8 @@
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jaydevvadachhak&show_icons=true&theme=gotham" alt="Jaydev Vadachhak | Stats" />
 </details>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydevvadachhak&langs_count=8)
+
 [twitter]: https://twitter.com/Jaydevvadachhak
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/jaydev-vadachhak-66220617a/
