@@ -1,18 +1,18 @@
-## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Jaydev Vadachhak
+<!-- ## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Jaydev Vadachhak
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
-### My languages
+### My languages -->
 
-<p>
-<img align="left" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="26" height="26"/>
+<!-- <p> -->
+<!-- <img align="left" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="26" height="26"/>
 <img align="left" alt="python" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="26" height="26"/>
 <img align="left" alt="Kotlin" width="26" height="26" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" height="26"/> 
-<img align="left" src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="26" height="26"/>
+<img align="left" src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="26" height="26"/> -->
 <!-- <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>  -->
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/> -->
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/>  -->
@@ -20,11 +20,11 @@
 <!-- <img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/>  -->
 <!-- <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> -->
 <!-- <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> -->
-<br>
+<!-- <br>
 </p>
-<br>
+<br> -->
 
-### My Toolbox
+<!-- ### My Toolbox
 
 <p>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -34,9 +34,9 @@
 <img alt="wordpress" src="https://img.icons8.com/color/96/000000/wordpress.png" width="26" height="26"/>
 <img align="left" alt="Google Analytics" src="https://img.icons8.com/color/48/000000/google-analytics.png" width="26" height="26" />
 <img align="left" alt="Photoshop" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" width="26" height="26" />
-<img alt="Android" width="26" height="26" src="https://img.icons8.com/color/48/000000/android-os.png"/>
+<img alt="Android" width="26" height="26" src="https://img.icons8.com/color/48/000000/android-os.png"/> -->
 <!-- <img alt="Anaconda" width="26" height="26" src="https://img.icons8.com/dusk/64/000000/anaconda.png" />  -->
-<br>
+<!-- <br>
 </p>
 </br>
 
@@ -70,5 +70,6 @@
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/jaydev-vadachhak-66220617a/
 [Medium]: https://medium.com/@jaydevvadachhak
-[Facebook]: https://www.facebook.com/jaydev.vadachhak/
+[Facebook]: https://www.facebook.com/jaydev.vadachhak/ -->
 
+<a href="https://app.daily.dev/jaygrowexxer"><img src="https://api.daily.dev/devcards/6d51dc07f21f4a379ea14add68f38b26.png?r=agt" width="250" alt="Jaydev Growexx's Dev Card"/></a>
