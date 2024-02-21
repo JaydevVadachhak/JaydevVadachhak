@@ -72,4 +72,5 @@
 [Medium]: https://medium.com/@jaydevvadachhak
 [Facebook]: https://www.facebook.com/jaydev.vadachhak/ -->
 
-<a href="https://app.daily.dev/jaygrowexxer"><img src="https://api.daily.dev/devcards/6d51dc07f21f4a379ea14add68f38b26.png?r=agt" width="250" alt="Jaydev Growexx's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/jaygrowexxer"><img src="https://api.daily.dev/devcards/6d51dc07f21f4a379ea14add68f38b26.png?r=agt" width="250" alt="Jaydev Growexx's Dev Card"/></a> -->
+<a href="https://app.daily.dev/jaygrowexxer"><img src="https://api.daily.dev/devcards/v2/mR4x84vUiYFoiB6pn7hhg.png?r=l6r" width="356" alt="Jaydev Growexx's Dev Card"/></a>
