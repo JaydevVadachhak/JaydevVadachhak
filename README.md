@@ -72,5 +72,10 @@
 [Medium]: https://medium.com/@jaydevvadachhak
 [Facebook]: https://www.facebook.com/jaydev.vadachhak/ -->
 
+![JaydevVadachhak's Stats](https://github-readme-stats.vercel.app/api?username=JaydevVadachhak&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![JaydevVadachhak's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaydevVadachhak&theme=dark&hide_border=false)
+![JaydevVadachhak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaydevVadachhak&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
 <!-- <a href="https://app.daily.dev/jaygrowexxer"><img src="https://api.daily.dev/devcards/6d51dc07f21f4a379ea14add68f38b26.png?r=agt" width="250" alt="Jaydev Growexx's Dev Card"/></a> -->
 <a href="https://app.daily.dev/jaygrowexxer"><img src="https://api.daily.dev/devcards/v2/mR4x84vUiYFoiB6pn7hhg.png?type=default&r=v1m" width="356" alt="Jaydev Vadachhak's Dev Card"/></a>
+
