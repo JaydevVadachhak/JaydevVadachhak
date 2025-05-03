@@ -1,3 +1,33 @@
+<h1 align="center">Hi 👋, I'm Jaydev Vadachhak</h1>
+<h4 align="center">A passionate frontend engineer with extensive experience in Angular technology. With proficiency in HTML, CSS, JavaScript, and TypeScript, gained an outstanding track record of delivering top-quality web applications and responsive user interfaces. Moreover, a great communicator, a team player, and always willing to proactively take on new challenges.</h4>
+	
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JaydevVadachhak&color=blueviolet&style=flat">
+</p>
+
+### 📊 &nbsp;GitHub Analytics
+
+<p align="center">
+ <a href="https://github.com/JaydevVadachhak">
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JaydevVadachhak&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<!--    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JaydevVadachhak&layout=compact&langs_count=8&theme=algolia"/> -->
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaydevVadachhak&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JaydevVadachhak&theme=dark&hide_border=false"/>
+ </a>
+</p>
+
+### 🎴 &nbsp;Dev Card
+<p align="center">
+ <a href="https://app.daily.dev/jaygrowexxer"><img src="https://api.daily.dev/devcards/v2/mR4x84vUiYFoiB6pn7hhg.png?type=wide&r=cmh" width="450" alt="Jaydev Vadachhak's Dev Card"/></a>
+</p>
+
+### 🤝 &nbsp;Connect with me
+
+[dev.to](https://dev.to/softheartengineer) |
+[gmail](mailto:jayvadachhak@gmail.com) |
+[linkedin](https://www.linkedin.com/in/jaydev-vadachhak-66220617a/) |
+[Medium](https://medium.com/@jaydevvadachhak) |
+
 <!-- ## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Jaydev Vadachhak
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
@@ -73,9 +103,11 @@
 [Facebook]: https://www.facebook.com/jaydev.vadachhak/ -->
 
 <!--- ![JaydevVadachhak's Stats](https://github-readme-stats.vercel.app/api?username=JaydevVadachhak&theme=dark&show_icons=true&hide_border=false&count_private=true) --->
-![JaydevVadachhak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaydevVadachhak&theme=dark&show_icons=true&hide_border=false&layout=compact)
-![JaydevVadachhak's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaydevVadachhak&theme=dark&hide_border=false)
 
 <!-- <a href="https://app.daily.dev/jaygrowexxer"><img src="https://api.daily.dev/devcards/6d51dc07f21f4a379ea14add68f38b26.png?r=agt" width="250" alt="Jaydev Growexx's Dev Card"/></a> -->
 <!-- <a href="https://app.daily.dev/jaygrowexxer"><img src="https://api.daily.dev/devcards/v2/mR4x84vUiYFoiB6pn7hhg.png?type=default&r=v1m" width="356" alt="Jaydev Vadachhak's Dev Card"/></a> -->
-<a href="https://app.daily.dev/jaygrowexxer"><img src="https://api.daily.dev/devcards/v2/mR4x84vUiYFoiB6pn7hhg.png?type=wide&r=cmh" width="450" alt="Jaydev Vadachhak's Dev Card"/></a>
+
+<!--- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JaydevVadachhak&color=blueviolet&style=flat">
+</p> --->
+
