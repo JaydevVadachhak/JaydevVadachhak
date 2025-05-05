@@ -26,7 +26,7 @@
 [dev.to](https://dev.to/softheartengineer) |
 [gmail](mailto:jayvadachhak@gmail.com) |
 [linkedin](https://www.linkedin.com/in/jaydev-vadachhak-66220617a/) |
-[Medium](https://medium.com/@jaydevvadachhak) |
+[Medium](https://medium.com/@jaydevvadachhak)
 
 <!-- ## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Jaydev Vadachhak
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
